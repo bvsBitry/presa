@@ -1,0 +1,160 @@
+
+.slide-3 .section-left .section-title{
+    opacity: 0;
+    animation: fadeIn;
+    animation-fill-mode: forwards;
+    animation-duration: 1s;
+    animation-delay: 1.5s;
+}
+
+.slide-3 .section-container .section-left .section-1{
+    opacity: 0;
+    animation: fadeIn;
+    animation-fill-mode: forwards;
+    animation-duration: 1s;
+    animation-delay: 2.5s;
+}
+.slide-3 .section-container .section-left .section-2{
+    opacity: 0;
+    animation: fadeIn;
+    animation-fill-mode: forwards;
+    animation-duration: 1s;
+    animation-delay: 3.5s;
+}
+.slide-3 .section-container .section-left .section-3{
+    opacity: 0;
+    animation: fadeIn;
+    animation-fill-mode: forwards;
+    animation-duration: 1s;
+    animation-delay: 4.5s;
+}
+.slide-3 .section-container .section-left .section-4{
+    opacity: 0;
+    animation: fadeIn;
+    animation-fill-mode: forwards;
+    animation-duration: 1s;
+    animation-delay: 5.5s;
+}
+.slide-3 .section-right .section-title{
+    opacity: 0;
+    animation: fadeIn;
+    animation-fill-mode: forwards;
+    animation-duration: 1s;
+    animation-delay: 8.5s;
+}
+
+.slide-3 .section-container .section-right .section-1{
+    opacity: 0;
+    animation: fadeIn;
+    animation-fill-mode: forwards;
+    animation-duration: 1s;
+    animation-delay:9.5s;
+}
+.slide-3 .section-container .section-right .section-2{
+    opacity: 0;
+    animation: fadeIn;
+    animation-fill-mode: forwards;
+    animation-duration: 1s;
+    animation-delay: 10.5s;
+}
+.slide-3 .section-container .section-right .section-3{
+    opacity: 0;
+    animation: fadeIn;
+    animation-fill-mode: forwards;
+    animation-duration: 1s;
+    animation-delay: 11.5s;
+}
+.slide-3 .section-container .section-right .section-4,
+.slide-3 .section-container .section-right .section-5,
+.slide-3 .section-footnote{
+    opacity: 0;
+    animation: fadeIn;
+    animation-fill-mode: forwards;
+    animation-duration: 1s;
+    animation-delay: 12.5s;
+}
+
+.slide-3-a .section-2{
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+.slide-3-a .section-3{
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+.slide-3-a .section-4{
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+.slide-4-a .section-item-1 .section-title,
+.slide-4-b .section-item-1 .section-title{
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+.slide-4-a .section-item-1 .section-subtitle,
+.slide-4-b .section-item-1 .section-subtitle{
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+.slide-4-a .section-item-1 .section-graph,
+.slide-4-b .section-item-1 .section-graph{
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+.slide-4-a .section-item-2 .section-title,
+.slide-4-b .section-item-2 .section-title{
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+.slide-4-a .section-item-2 .section-subtitle,
+.slide-4-b .section-item-2 .section-subtitle{
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+.slide-4-a .section-item-2 .section-graph,
+.slide-4-b .section-item-2 .section-graph{
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+.slide-4-c .section-img,
+.slide-4-c .section-title{
+    animation-fill-mode: forwards;
+    opacity: 0;
+}
+.slide-4-c .section-desc{
+    animation-fill-mode: forwards;
+    opacity: 0;
+}
+.slide-4-c .section-line{
+    animation-fill-mode: forwards;
+    opacity: 0;
+}
+
+
+.slide-5 .section-item-2{
+    opacity: 0;
+    animation: fadeIn;
+    animation-fill-mode: forwards;
+    animation-duration: 1s;
+    animation-delay: 1.5s;
+}
+
+.slide-5 .section-item-2 .text{
+    opacity: 0;
+    animation: fadeIn;
+    animation-fill-mode: forwards;
+    animation-duration: 1s;
+    animation-delay: 4.5s;
+}
+
+.slide-5 .section-item-2 .arr-ani{
+    opacity: 0;
+    animation: fadeIn;
+    animation-fill-mode: forwards;
+    animation-duration: 1s;
+    animation-delay: 5.5s;
+}
+.slide-5-a .section-item-2{
+    animation-fill-mode: forwards;
+    opacity: 0;
+}
